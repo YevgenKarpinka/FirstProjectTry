@@ -7,8 +7,8 @@ pageextension 50104 "Customer Card Ext" extends "Customer Card"
             field("Reward ID"; "Reward ID")
             {
                 ApplicationArea = All;
-                Lookup = true;
                 ToolTip = 'Specifies the level or reward that the customer has at this point.';
+                Lookup = true;
             }
         }
     }
