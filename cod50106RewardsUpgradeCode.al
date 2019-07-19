@@ -4,7 +4,7 @@ codeunit 50106 RewardsUpgradeCode
 
     trigger OnUpgradePerCompany()
     var
-        InstallCode: Codeunit RewardsInstallCode;
+        // InstallCode: Codeunit RewardsInstallCode;
         Reward: Record Reward;
         Customer: Record Customer;
         Module: ModuleInfo;
