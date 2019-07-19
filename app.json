@@ -1,0 +1,26 @@
+{
+  "id": "645bfea5-3460-4f8c-98a5-46af6d0d8d70",
+  "name": "Awesome Demo!",
+  "publisher": "Cloud Ready Software",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FirstProjectTry.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
